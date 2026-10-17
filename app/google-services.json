@@ -1,5 +1,6 @@
+CARLAARCHULETA
 /*
-** THIS IS A SAMPLE CONFIGURATION FILE WITH DUMMY DATA
+/*CARTHIS IS A SAMPLE CONFIGURATION FILE WITH DUMMY DATA
 **
 ** Replace this file with a valid google-services.json
 ** downloaded from the Firebase Console with your project details.
@@ -9,7 +10,8 @@
 {
   "project_info": {
     "project_number": "9999999999",
-    "firebase_url": "https://guardian.firebaseio.com",
+    "firebase_url": "https://guardian. 
+    firebaseio.com",
     "project_id": "guardian-fcm",
     "storage_bucket": "guardian-fcm.appspot.com"
   },
